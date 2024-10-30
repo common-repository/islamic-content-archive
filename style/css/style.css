@@ -1,0 +1,51 @@
+
+.category {
+
+}
+.category-head {
+	overflow: hidden;
+}
+.category-head .category-logo {
+	 
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+	background: #FFF !important;
+	border-radius: 50%;
+	margin: 0.50em;
+	padding: 3px;
+}
+.category-logo img.new_muslims, .category-logo img.learn_the_quran, .category-logo img.prayer_in_islam, .category-logo img.truth_seeker, .category-logo img.dawah_skills, .category-logo img.islam_for_christians, .category-logo img.islam_for_hindus, .category-logo img.the_faith, .category-logo img.muslimelibrary {
+	margin-top: 22px;
+}
+.category-head .category-title {
+	display: inline-block;
+	margin: 1.3em 0.20em;
+}
+.category-head .category-title a {
+	text-decoration: none;
+}
+.input {
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+.checkbox {
+	overflow: hidden;
+}
+.checkbox p {
+	width: 25%;
+	display: inline-block;
+}
+.checkbox p span {
+	font-weight: bold;
+}
+.input label{
+	min-width: 170px;
+	display: inline-block;
+}
+.opic_logo{
+	background-image: url("../images/edc-logo.png");
+	padding: 13px 48px;
+	background-repeat: no-repeat;
+	margin: 7px 0px;
+}
